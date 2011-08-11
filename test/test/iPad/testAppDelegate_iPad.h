@@ -10,4 +10,7 @@
 
 @interface testAppDelegate_iPad : testAppDelegate
 
+/*
+ This is a comment
+ */
 @end
